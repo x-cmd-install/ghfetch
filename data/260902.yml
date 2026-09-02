@@ -1,0 +1,58 @@
+about:
+  description: :octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
+  license: MIT
+  homepage: 
+  head: aa92555
+  archived: false
+  latestVersion: v0.0.19
+  collectedAt: 2026-09-02T04:34:15Z
+timeline:
+  created: 2023-10-08
+  lastCommit: 2026-09-02
+  lastRelease: 2023-10-10
+popularity:
+  star: 67
+  watcher: 3
+  fork: 1
+  release: 9
+  contributor: 2
+  pullRequest: 1
+  issue: 3
+language:
+  Go: 12577
+  Tape: 4484
+  Shell: 414
+totalLine: 17475
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 98
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 337
+  last180d:
+    since: 2026-03-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 697
+  last360d:
+    since: 2025-09-07
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1417
