@@ -2,10 +2,10 @@ about:
   description: ":octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch."
   license: MIT
   homepage: 
-  head: 40f090c
+  head: 08d2c4a
   archived: false
   latestVersion: "v0.0.19"
-  collectedAt: 2026-09-07T05:37:25Z
+  collectedAt: 2026-09-07T18:46:56Z
 timeline:
   created: 2023-10-08
   lastCommit: 2026-09-07
@@ -31,7 +31,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 90
+    commit: 92
   last60d:
     since: 2026-07-09
     release: 0
@@ -39,7 +39,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 210
+    commit: 212
   last90d:
     since: 2026-06-09
     release: 0
@@ -47,7 +47,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 329
+    commit: 331
   last180d:
     since: 2026-03-11
     release: 0
@@ -55,7 +55,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 689
+    commit: 691
   last360d:
     since: 2025-09-12
     release: 0
@@ -63,7 +63,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1409
+    commit: 1411
   last720d:
     since: 2024-09-17
     release: 0
@@ -71,17 +71,17 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 3
-    commit: 2869
+    commit: 2871
 total:
   release: 9
   mergedPR: 9
   openPR: 0
   closedIssue: 0
   openIssue: 3
-  commit: 4324
+  commit: 4326
 ---
 path: /home/runner/.x-repo/github.com/orangekame3/ghfetch
-collectedAt: 2026-09-07T05:38:03Z
+collectedAt: 2026-09-07T18:47:16Z
 loc:
   Go:
     code: 317
@@ -117,7 +117,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:38:04+00:00
+  collectedAt: 2026-09-07T18:47:16+00:00
   platform:
     darwin/arm64:
       name:  ghfetch_Darwin_arm64.tar.gz
