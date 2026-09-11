@@ -68,14 +68,6 @@ Total: **370** lines of code across **8** files in the top 5 languages.
 | [ghfetch_Windows_i386.zip](https://github.com/orangekame3/ghfetch/releases/download/v0.0.19/ghfetch_Windows_i386.zip) | 3.9 MiB | `native/win/x64` |
 | [ghfetch_Windows_x86_64.zip](https://github.com/orangekame3/ghfetch/releases/download/v0.0.19/ghfetch_Windows_x86_64.zip) | 4.0 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/ghfetch). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.0.19` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for ghfetch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ghfetch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +77,4 @@ Install metadata for ghfetch lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:31:14Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:26:55Z._
