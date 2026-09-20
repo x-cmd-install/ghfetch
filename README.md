@@ -4,7 +4,7 @@
 
 :octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
 
-![ghfetch](https://repo.x-cmd.io/ghfetch.svg)
+[![x-cmd/install — ghfetch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ghfetch.svg)](https://x-cmd.com/install/ghfetch)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **370** lines of code across **8** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 72 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 191 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 310 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 670 |
-| 360d | 2025-09-23 | 0 | 0 | 0 | 0 | 0 | 1390 |
-| last720d | 2024-09-28 | 0 | 0 | 0 | 0 | 3 | 2835 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 47 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 163 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 282 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 642 |
+| 360d | 2025-09-25 | 0 | 0 | 0 | 0 | 0 | 1362 |
+| last720d | 2024-09-30 | 0 | 0 | 0 | 0 | 3 | 2827 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for ghfetch lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:44:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:42:02Z._
