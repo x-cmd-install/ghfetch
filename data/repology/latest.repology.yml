@@ -1,0 +1,90 @@
+- repo: nix_stable_25_11
+  srcname: ghfetch
+  visiblename: ghfetch
+  version: 0.0.19
+  origversion: null
+  status: outdated
+  summary: CLI tool to fetch GitHub user information and show like neofetch
+  maintainers:
+    - me@aleksana.moe
+  licenses:
+    - MIT
+- repo: aur
+  srcname: ghfetch
+  binname: ghfetch
+  visiblename: ghfetch
+  version: 1.9.1
+  origversion: 1.9.1-1
+  status: newest
+  summary: A nice way to display CLI Github user / repo / organization info inspired in neofetch
+  maintainers:
+    - ghfetch@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: ghfetch-git
+  binname: ghfetch-git
+  visiblename: ghfetch-git
+  version: 1.2.5
+  origversion: 1.2.5-5
+  status: rolling
+  summary: A nice way to display CLI Github user / repo / organization info inspired in neofetch
+  maintainers:
+    - ghfetch@aur
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: ghfetch
+  visiblename: ghfetch
+  version: 0.0.19
+  origversion: null
+  status: outdated
+  summary: A CLI tool to fetch GitHub user information and show like neofetch
+  maintainers:
+    - me@aleksana.moe
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: ghfetch
+  visiblename: ghfetch
+  version: 0.0.19
+  origversion: null
+  status: outdated
+  summary: CLI tool to fetch GitHub user information and show like neofetch
+  maintainers:
+    - me@aleksana.moe
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: ghfetch
+  visiblename: ghfetch
+  version: 0.0.19
+  origversion: null
+  status: outdated
+  summary: CLI tool to fetch GitHub user information and show like neofetch
+  maintainers:
+    - me@aleksana.moe
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: ghfetch
+  visiblename: ghfetch
+  version: 0.0.19
+  origversion: null
+  status: outdated
+  summary: CLI tool to fetch GitHub user information and show like neofetch
+  maintainers:
+    - me@aleksana.moe
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: ghfetch
+  visiblename: ghfetch
+  version: 0.0.19
+  origversion: null
+  status: outdated
+  summary: CLI tool to fetch GitHub user information and show like neofetch
+  maintainers:
+    - me@aleksana.moe
+  licenses:
+    - MIT
