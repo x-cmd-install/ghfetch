@@ -41,18 +41,18 @@ Total: **370** lines of code across **8** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 3 · **Commits**: 4514
+- **Releases**: 9 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 3 · **Commits**: 4516
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 75 |
-| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 181 |
-| 90d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 241 |
-| last180d | 2026-05-19 | 0 | 0 | 0 | 0 | 0 | 599 |
-| 360d | 2025-11-20 | 0 | 0 | 0 | 0 | 0 | 1319 |
-| last720d | 2024-11-25 | 0 | 0 | 0 | 0 | 0 | 2785 |
+| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 77 |
+| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 183 |
+| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 243 |
+| last180d | 2026-05-20 | 0 | 0 | 0 | 0 | 0 | 601 |
+| 360d | 2025-11-21 | 0 | 0 | 0 | 0 | 0 | 1321 |
+| last720d | 2024-11-26 | 0 | 0 | 0 | 0 | 0 | 2783 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for ghfetch lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:23:13Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:39:08Z._
