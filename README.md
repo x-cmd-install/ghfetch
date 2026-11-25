@@ -32,7 +32,7 @@ Total: **370** lines of code across **8** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.19` (2023-10-10)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **370** lines of code across **8** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 3 · **Commits**: 4537
+- **Releases**: 9 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 3 · **Commits**: 4538
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 71 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 182 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 241 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 594 |
-| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 1314 |
-| last720d | 2024-12-04 | 0 | 0 | 0 | 0 | 0 | 2772 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 72 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 183 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 242 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 595 |
+| 360d | 2025-11-30 | 0 | 0 | 0 | 0 | 0 | 1315 |
+| last720d | 2024-12-05 | 0 | 0 | 0 | 0 | 0 | 2769 |
 
 ## Release assets
 
@@ -68,14 +68,6 @@ Total: **370** lines of code across **8** files in the top 5 languages.
 | [ghfetch_Windows_i386.zip](https://github.com/orangekame3/ghfetch/releases/download/v0.0.19/ghfetch_Windows_i386.zip) | 3.9 MiB | `native/win/x64` |
 | [ghfetch_Windows_x86_64.zip](https://github.com/orangekame3/ghfetch/releases/download/v0.0.19/ghfetch_Windows_x86_64.zip) | 4.0 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/ghfetch). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.0.19` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for ghfetch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ghfetch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +77,4 @@ Install metadata for ghfetch lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:40:12Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:10:27Z._
